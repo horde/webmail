@@ -10,7 +10,7 @@
   <email>jan@horde.org</email>
   <active>yes</active>
  </lead>
- <date>2017-10-13</date>
+ <date>2017-10-16</date>
  <version>
   <release>6.0.0</release>
   <api>6.0.0</api>
@@ -68,7 +68,7 @@
      </dir> <!-- /turba/config/conf.d -->
     </dir> <!-- /turba/config -->
    </dir> <!-- /turba -->
-   <file name="README" role="doc" />
+   <file name="README.rst" role="doc" />
   </dir> <!-- / -->
  </contents>
  <dependencies>
@@ -165,7 +165,7 @@
  </dependencies>
  <phprelease>
   <filelist>
-   <install as="README" name="README" />
+   <install as="README.rst" name="README.rst" />
    <install as="webmail-install" name="bin/webmail-install" />
    <install as="config/prefs.d/10-webmail.php" name="config/prefs.d/10-webmail.php" />
    <install as="CHANGES" name="doc/CHANGES" />
@@ -499,7 +499,7 @@
    <stability>
     <release>beta</release>
     <api>beta</api></stability>
-   <date>2017-10-13</date>
+   <date>2017-10-16</date>
    <license uri="http://www.horde.org/licenses/">OSI certified</license>
    <notes>
 * 
