@@ -465,7 +465,7 @@ Edition to function properly.
    Most of these packages also include POP3 support as well.
 
    The Horde Project recommends either Cyrus or Dovecot (see
-   `docs/PERFORMANCE`_ for further information).
+   `doc/PERFORMANCE`_ for further information).
 
    The IMAP server MUST support IMAP4rev1 (RFC 3501).
    The POP server MUST support POP3 (RFC 1939/STD 53).
@@ -791,7 +791,7 @@ Configuring Horde Groupware Webmail Edition
       Handler`` tab in the Horde setup.
 
    For more information about securing your webserver, PHP and Horde Groupware
-   Webmail Edition, see the `docs/SECURITY`_ file.
+   Webmail Edition, see the `doc/SECURITY`_ file.
 
 
 Temporary Files
@@ -824,7 +824,7 @@ Note for international users: Horde Groupware Webmail Edition uses GNU gettext
 to provide local translations of text displayed by applications; the
 translations are found in the po/ directory.  If a translation is not yet
 available for your locale (and you wish to create one), or if you're having
-trouble using a provided translation, please see the `docs/TRANSLATIONS`_
+trouble using a provided translation, please see the `doc/TRANSLATIONS`_
 file for instructions.
 
 
@@ -863,9 +863,9 @@ The Horde Team
 
 
 .. _README: README
-.. _docs/PERFORMANCE: PERFORMANCE
-.. _docs/SECURITY: ../../horde/docs/SECURITY
-.. _docs/TRANSLATIONS: ../../horde/docs/TRANSLATIONS
+.. _doc/PERFORMANCE: PERFORMANCE
+.. _doc/SECURITY: ../../horde/doc/SECURITY
+.. _doc/TRANSLATIONS: ../../horde/doc/TRANSLATIONS
 .. _`curl extension`: http://php.net/curl
 .. _`http extension`: http://php.net/http
 .. _`File Uploads`: http://wiki.horde.org/FAQ/Admin/FileUploads

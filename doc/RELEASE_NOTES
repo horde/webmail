@@ -24,10 +24,10 @@ tasks and notes with the standards compliant components from the Horde
 Project.
 
 For upgrading instructions, please see
-http://www.horde.org/apps/webmail/docs/UPGRADING
+http://www.horde.org/apps/webmail/doc/UPGRADING
 
 For detailed installation and configuration instructions, please see
-http://www.horde.org/apps/webmail/docs/INSTALL
+http://www.horde.org/apps/webmail/doc/INSTALL
 
 The major changes compared to the Horde Groupware Webmail Edition version 5.1.2
 are:
