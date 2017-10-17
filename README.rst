@@ -98,9 +98,9 @@ appearances on IRC, on the channel #horde on the freenode Network
 Licensing
 ---------
 
-For licensing and copyright information, please see the file COPYING in the
-Horde Groupware Webmail Edition distribution and the COPYING and LICENSE files
-in the `imp`, `ingo`, `kronolith`, `turba`, `nag` and `mnemo` subdirectories.
+For licensing and copyright information, please see the file LICENSE in the
+Horde Groupware Webmail Edition distribution and the LICENSE files in the
+`imp`, `ingo`, `kronolith`, `turba`, `nag` and `mnemo` subdirectories.
 
 Thanks,
 
