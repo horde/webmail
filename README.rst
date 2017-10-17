@@ -113,8 +113,8 @@ The Horde Groupware Webmail Edition team
 .. _doc/CONTRIBUTING: ../../horde/doc/CONTRIBUTING
 .. _doc/CREDITS: ../../horde/doc/CREDITS
 .. _INSTALL:
-.. _doc/INSTALL: doc/INSTALL
+.. _doc/INSTALL: doc/INSTALL.rst
 .. _doc/PERFORMANCE: PERFORMANCE
 .. _doc/RELEASE: ../../horde/doc/RELEASE
 .. _doc/SECURITY: ../../horde/doc/SECURITY
-.. _doc/UPGRADING: doc/UPGRADING
+.. _doc/UPGRADING: doc/UPGRADING.rst
