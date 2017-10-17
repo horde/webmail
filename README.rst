@@ -107,14 +107,14 @@ Thanks,
 The Horde Groupware Webmail Edition team
 
 
-.. _README: README
-.. _doc/CHANGES: CHANGES
+.. _README: README.rst
+.. _doc/CHANGES: doc/CHANGES
 .. _doc/CODING_STANDARDS: ../../horde/doc/CODING_STANDARDS
 .. _doc/CONTRIBUTING: ../../horde/doc/CONTRIBUTING
 .. _doc/CREDITS: ../../horde/doc/CREDITS
 .. _INSTALL:
-.. _doc/INSTALL: INSTALL
+.. _doc/INSTALL: doc/INSTALL
 .. _doc/PERFORMANCE: PERFORMANCE
 .. _doc/RELEASE: ../../horde/doc/RELEASE
 .. _doc/SECURITY: ../../horde/doc/SECURITY
-.. _doc/UPGRADING: UPGRADING
+.. _doc/UPGRADING: doc/UPGRADING
