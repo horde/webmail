@@ -20,7 +20,7 @@ authors:
     role: lead
 version:
   release: 5.2.23
-  api: 5.0.0
+  api: 5.2.0
 state:
   release: stable
   api: stable
@@ -29,7 +29,7 @@ license:
   uri: http://www.horde.org/licenses/
 dependencies:
   required:
-    php: ^5.3
+    php: ^5.3 || ^7
     pear:
       pear.horde.org/groupware:
         version: '*'
