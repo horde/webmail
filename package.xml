@@ -21,7 +21,7 @@
  </stability>
  <license uri="http://www.horde.org/licenses/">OSI certified</license>
  <notes>
-* 
+* [jan] Fix error in hook if contacts support gets disabled (Alex Muntada &lt;alex.muntada@upc.edu&gt;, PR 1).
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
@@ -839,7 +839,7 @@
    <date>2017-11-14</date>
    <license uri="http://www.horde.org/licenses/">OSI certified</license>
    <notes>
-* 
+* [jan] Fix error in hook if contacts support gets disabled (Alex Muntada &lt;alex.muntada@upc.edu&gt;, PR 1).
    </notes>
   </release>
  </changelog>
