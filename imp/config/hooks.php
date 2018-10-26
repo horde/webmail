@@ -19,8 +19,7 @@ class IMP_Hooks
             // Dynamically set the add_source preference.
             try {
                 $add_source = $GLOBALS['registry']->call('contacts/getDefaultShare');
-            }
-            catch (Horde_Exception $e) {
+            } catch (Horde_Exception $e) {
                 $add_source = $value;
             }
             return is_null($username)
@@ -34,8 +33,7 @@ class IMP_Hooks
             if (!is_null($username)) {
                 try {
                     $sources = $GLOBALS['registry']->call('contacts/sources');
-                }
-                catch (Horde_Exception $e) {
+                } catch (Horde_Exception $e) {
                     $sources = array();
                 }
 
