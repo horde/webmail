@@ -9,6 +9,8 @@
  * @author  Jan Schneider <jan@horde.org>
  * @package webmail
  */
+use Horde\Util\Variables;
+
 class Horde_Bundle extends Horde_Core_Bundle
 {
     /**
@@ -36,7 +38,7 @@ class Horde_Bundle extends Horde_Core_Bundle
      *
      * @return string  The administrator name.
      */
-    protected function _configAuth(Horde_Variables $vars)
+    protected function _configAuth(Horde_Variables|Variables $vars)
     {
         $vars->auth__driver = 'application';
         $vars->auth__params__app = 'imp';
